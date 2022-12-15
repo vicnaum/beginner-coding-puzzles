@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "input": ["cat", "dog", "elephant"],
+      "output": 2
+    },
+    {
+      "input": [],
+      "output": 0
+    },
+    {
+      "input": ["apple", "banana", "carrot"],
+      "output": 3
+    },
+    {
+      "input": ["hello", "world"],
+      "output": 0
+    },
+    {
+      "input": ["ant", "bat", "cat", "dog", "elephant"],
+      "output": 4
+    },
+    {
+      "input": ["aardvark", "anteater", "armadillo", "aurochs"],
+      "output": 4
+    },
+    {
+      "input": ["alligator", "baboon", "crocodile", "dingo"],
+      "output": 2
+    },
+    {
+      "input": ["adventure", "beverage", "celebration", "delight"],
+      "output": 3
+    },
+    {
+      "input": ["allegory", "balcony", "catacomb", "dramatic"],
+      "output": 4
+    },
+    {
+      "input": ["abstract", "bicycle", "cylinder", "diamond"],
+      "output": 2
+    }
+  ]
+}
